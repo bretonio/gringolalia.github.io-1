@@ -1,0 +1,149 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Bem-Vindo(a) ao Projeto Samboja\n\n\nMeu nome e Colin Brayton e moro aqui na Samboja -- nessa nossa Paulic\u00e9ia Desvairada -- com minha mulher, Neuza Paranhos -- a \nMina de Letras\n -- e uma troixa de vira-latas com nomes provindo de grandes cantoras da MPB. \n\n\nEu sou editor \n jornalista e tradutor  com muita experi\u00eancia no mundo de \u00abpublishing\u00bb em Nova York, mas agora trabalhando duro para virar arquiteto de \u00absites\u00bb --   de s\u00edtios, os de aqueles que os Romanos chamavan de \u00abloci\u00bb. \n\n\nGosto da id\u00e9ia de usar o latim: \u00abWeb sites\u00bb como \u00abde locibus reticulari\u00bb e um bom designer como \u00abgenius loci\u00bb. \n\n\n(Veja tamb\u00e9m meu \nblog sobre o c\u00f3digo aberto\n, \n\u00abde cifris patentibus\u00bb\n. N\u00e3o garanto a qualidade do meu latim.)\n\n\nO Qu\u00ea Que \u00c9?\n\n\nO presente projeto vai me servir para documentar algumas -- na verdade, muitas -- pesquisas e testes que eu realizava durante o ano passado.\n\n\nEstou criando-o com o pacote \nMkDocs\n, uma \ngeradora de p\u00e1ginas est\u00e1ticas\n entre muitos que entraram no mercado nosso \u00faltimos anos. (\nSphinx\n tamb\u00e9m \u00e9 muito bom para documenta\u00e7\u00e3o mas este \u00e9 mais f\u00e1cil montar no GitHub Pages.)\n\n\nMeu Laborat\u00f3rio Tabajara\n\n\nDominando essas ferrramentas e aprendendo a aplicar \nos \u00abframeworks\u00bb mais comuns hoje em dia\n tem sido uma tarefa priorit\u00e1ria, mas continuo com curiosidade sobre novos applicativos no ramo de os bom e velhos    CMS -- e especialmente em CMS que \ndispensa com o banco de dados\n -- MySQL no estaca LAMPP e coisa e tal. \n\n\nEstudoando das Cartilhas\n\n\nA\u00ed ser\u00e1 muito simples. Enquanto eu trabalho como novo software ou voltar a usar outro, eu anoto os comandos na linha de comando para fazer v\u00e1rias tarefas. \n\n\nExemplo: Projeto Phnom Penh\n\n\nPara instalar Phenomic, por exemplo, \u00e9 meio complicado -- mais do que outros aplicativos do \u011denero.\n\n\nnpm install babel-cli babel-preset-react babel-preset-es2015 babel-preset-stage-1 babel-plugin-flow-react-proptypes\n\n\nseguido por\n\n\nnpm install https://github.com/MoOx/phenomic.git\n\n\nO \u00abframework\u00bb -- \u00abandaime\u00bb? -- \nboilerplate\n \u00e9 o pr\u00f3ximo elemento a ser  np instalado. \n\n\n./node_modules/.bin/phenomic setup\n\n\nE agora \u00e9 so \n\n\nnpm install\n   \n\n\nseguido por\n\n\nnpm start\n\n\nAgora o site est\u00e1 dispon\u00edvel no servidor embutido no http://127.0.0.1:3333\n\n\nUma primeira postagem!\n\n\nOl\u00e1 Mundo! \n\n\nE Assim Por Diante\n\n\nAssim eu espero construir um resurso de refer\u00eancia legal para quem entre os lus\u00f3fonos est\u00e3o pesquisando os mesmos assuntos.", 
+            "title": "Come\u00e7o"
+        }, 
+        {
+            "location": "/#bem-vindoa-ao-projeto-samboja", 
+            "text": "Meu nome e Colin Brayton e moro aqui na Samboja -- nessa nossa Paulic\u00e9ia Desvairada -- com minha mulher, Neuza Paranhos -- a  Mina de Letras  -- e uma troixa de vira-latas com nomes provindo de grandes cantoras da MPB.   Eu sou editor   jornalista e tradutor  com muita experi\u00eancia no mundo de \u00abpublishing\u00bb em Nova York, mas agora trabalhando duro para virar arquiteto de \u00absites\u00bb --   de s\u00edtios, os de aqueles que os Romanos chamavan de \u00abloci\u00bb.   Gosto da id\u00e9ia de usar o latim: \u00abWeb sites\u00bb como \u00abde locibus reticulari\u00bb e um bom designer como \u00abgenius loci\u00bb.   (Veja tamb\u00e9m meu  blog sobre o c\u00f3digo aberto ,  \u00abde cifris patentibus\u00bb . N\u00e3o garanto a qualidade do meu latim.)", 
+            "title": "Bem-Vindo(a) ao Projeto Samboja"
+        }, 
+        {
+            "location": "/#o-que-que-e", 
+            "text": "O presente projeto vai me servir para documentar algumas -- na verdade, muitas -- pesquisas e testes que eu realizava durante o ano passado.  Estou criando-o com o pacote  MkDocs , uma  geradora de p\u00e1ginas est\u00e1ticas  entre muitos que entraram no mercado nosso \u00faltimos anos. ( Sphinx  tamb\u00e9m \u00e9 muito bom para documenta\u00e7\u00e3o mas este \u00e9 mais f\u00e1cil montar no GitHub Pages.)", 
+            "title": "O Qu\u00ea Que \u00c9?"
+        }, 
+        {
+            "location": "/#meu-laboratorio-tabajara", 
+            "text": "Dominando essas ferrramentas e aprendendo a aplicar  os \u00abframeworks\u00bb mais comuns hoje em dia  tem sido uma tarefa priorit\u00e1ria, mas continuo com curiosidade sobre novos applicativos no ramo de os bom e velhos    CMS -- e especialmente em CMS que  dispensa com o banco de dados  -- MySQL no estaca LAMPP e coisa e tal.", 
+            "title": "Meu Laborat\u00f3rio Tabajara"
+        }, 
+        {
+            "location": "/#estudoando-das-cartilhas", 
+            "text": "A\u00ed ser\u00e1 muito simples. Enquanto eu trabalho como novo software ou voltar a usar outro, eu anoto os comandos na linha de comando para fazer v\u00e1rias tarefas.", 
+            "title": "Estudoando das Cartilhas"
+        }, 
+        {
+            "location": "/#exemplo-projeto-phnom-penh", 
+            "text": "Para instalar Phenomic, por exemplo, \u00e9 meio complicado -- mais do que outros aplicativos do \u011denero.  npm install babel-cli babel-preset-react babel-preset-es2015 babel-preset-stage-1 babel-plugin-flow-react-proptypes  seguido por  npm install https://github.com/MoOx/phenomic.git  O \u00abframework\u00bb -- \u00abandaime\u00bb? --  boilerplate  \u00e9 o pr\u00f3ximo elemento a ser  np instalado.   ./node_modules/.bin/phenomic setup  E agora \u00e9 so   npm install      seguido por  npm start  Agora o site est\u00e1 dispon\u00edvel no servidor embutido no http://127.0.0.1:3333  Uma primeira postagem!  Ol\u00e1 Mundo!", 
+            "title": "Exemplo: Projeto Phnom Penh"
+        }, 
+        {
+            "location": "/#e-assim-por-diante", 
+            "text": "Assim eu espero construir um resurso de refer\u00eancia legal para quem entre os lus\u00f3fonos est\u00e3o pesquisando os mesmos assuntos.", 
+            "title": "E Assim Por Diante"
+        }, 
+        {
+            "location": "/ssg/jekyll/", 
+            "text": "", 
+            "title": "Jekyll"
+        }, 
+        {
+            "location": "/ssg/hugo/", 
+            "text": "", 
+            "title": "Hugo"
+        }, 
+        {
+            "location": "/ssg/hexo/", 
+            "text": "", 
+            "title": "Hexo"
+        }, 
+        {
+            "location": "/ssg/pelican/", 
+            "text": "", 
+            "title": "Pelican"
+        }, 
+        {
+            "location": "/ssg/sphinx/", 
+            "text": "", 
+            "title": "Sphinx"
+        }, 
+        {
+            "location": "/ssg/docpad/", 
+            "text": "", 
+            "title": "DocPad"
+        }, 
+        {
+            "location": "/cms/yellow/", 
+            "text": "", 
+            "title": "Yellow"
+        }, 
+        {
+            "location": "/cms/grav/", 
+            "text": "", 
+            "title": "Grav"
+        }, 
+        {
+            "location": "/cms/lavalite/", 
+            "text": "", 
+            "title": "Lavalite"
+        }, 
+        {
+            "location": "/cms/pico/", 
+            "text": "", 
+            "title": "Pico"
+        }, 
+        {
+            "location": "/cms/phile/", 
+            "text": "", 
+            "title": "Phile"
+        }, 
+        {
+            "location": "/cms/typesetter/", 
+            "text": "", 
+            "title": "Typesetter"
+        }, 
+        {
+            "location": "/front-end/foundation/", 
+            "text": "", 
+            "title": "Foundation"
+        }, 
+        {
+            "location": "/front-end/bootstrap/", 
+            "text": "", 
+            "title": "Bootstrap"
+        }, 
+        {
+            "location": "/front-end/twitter-bootstrap/", 
+            "text": "", 
+            "title": "Twitter Bootstrap"
+        }, 
+        {
+            "location": "/front-end/html5/", 
+            "text": "", 
+            "title": "HTML5 Boilerplate"
+        }, 
+        {
+            "location": "/front-end/bootswatch/", 
+            "text": "", 
+            "title": "Bootswatch"
+        }, 
+        {
+            "location": "/front-end/bootmetro/", 
+            "text": "", 
+            "title": "BootMetro"
+        }, 
+        {
+            "location": "/front-end/semanticui/", 
+            "text": "", 
+            "title": "SemanticUI"
+        }, 
+        {
+            "location": "/front-end/skeleton/", 
+            "text": "", 
+            "title": "Skeleton"
+        }, 
+        {
+            "location": "/front-end/yaml/", 
+            "text": "", 
+            "title": "YAML"
+        }, 
+        {
+            "location": "/front-end/turbogears/", 
+            "text": "", 
+            "title": "TurboGears"
+        }
+    ]
+}
